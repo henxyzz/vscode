@@ -23,4 +23,4 @@ CMD echo "===================================" && \
     code-server \
       --bind-addr 0.0.0.0:8080 \
       --auth password \
-      --password $PASSWORDp
+      --password $PASSWORD
